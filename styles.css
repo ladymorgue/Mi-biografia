@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(131, 3, 63);
+
+}
+p{
+    color: rgb(255, 255, 255);
+}
+p span{
+    color: rgb(255, 208, 0);
+}
+header{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; color: white;
+}
+p.caja { 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #ffffff; 
+    background:#ee0467
+}
